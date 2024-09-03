@@ -1,4 +1,4 @@
-[Video aula - Reockeseat](https://youtu.be/9kKKxZ7wbvc?si=ewbI4bNxroJqlAjT)
+[Video aula - Rockeseat](https://youtu.be/9kKKxZ7wbvc?si=ewbI4bNxroJqlAjT)
 
 
 _SharedValue_ é como um useState, porém para thread da UI enquanto o useState é para thread do JS
